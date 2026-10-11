@@ -73,7 +73,7 @@ Horse::position = 0
 int movement
 Roll a number between 0 and 1 and put it in movement
 Add movement to position
-'''
+```
 
 
 ### void Horse::printLane()
@@ -94,8 +94,9 @@ if position >= trackLength:
 return winning
 ```
 
-
-
+### main()
+seed randomizer
+start race
 
 
 
